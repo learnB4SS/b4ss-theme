@@ -8,7 +8,7 @@ body { font-family: 'Roboto', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Mi
 
 @font-face {
   font-family: myHelvi;
-  src: url("../Helvetica-Neue-Condensed-Black.ttf");
+  src: url("../assets/Helvetica-Neue-Condensed-Black.ttf");
 }
 
 h1 {

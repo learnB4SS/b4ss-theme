@@ -128,9 +128,9 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   font-size: 4em;
   text-align: left;
   text-shadow: none;
-  padding-bottom: 1px;
+  padding-bottom: 1.5px;
   margin-bottom: 1px;
-  width: 850px;
+  width: 650px;
 }
 
 /* H2 fonts */

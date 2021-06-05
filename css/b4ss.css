@@ -168,14 +168,14 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* SECTION DIVIDERS */
 /*~~~~~~~~~~~~~~~~~~*/
 
-/* section divider red */
-.title-slide-section-red {
-  background-color: #cc0033;
+/* section divider blue */
+.title-slide-section-blue {
+  background-color: #371BB1;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
 /* section divider red H1 fonts */
-.title-slide-section-red h1, .title-slide-section-red h2, .title-slide-section-red h3, .title-slide-section-red p {
+.title-slide-section-blue h1, .title-slide-section-blue h2, .title-slide-section-blue h3, .title-slide-section-blue p {
   color: #fff;
 }
 
@@ -232,7 +232,7 @@ strong {
 
 /* Add blue tag */
 .blue {
-  color: #0000CC;
+  color: #371BB1;
   font-weight: bold;
 }
 
@@ -276,14 +276,14 @@ h3 {
   font-size: 1.5em;
 }
 
-/* ru blockquote */
-ru-blockquote {
+/* b4ss blockquote */
+b4ss-blockquote {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 40px;
   margin-right: 40px;
-  border-left: solid 10px #cc0033;
+  border-left: solid 10px #371BB1;
   background-color: #818181;
   padding: 1em;
   color: #fff;
